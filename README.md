@@ -1,6 +1,8 @@
 # Read-from-CSV
-
-## AIM:
+### NAME: SHYAM S
+### REG.NO: 23012478
+### DEPT; AIML
+## AIM:To Write a python program for reading content from a CSV file
 
 ## ALGORITHM:
 ### Step 1:
